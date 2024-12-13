@@ -13,6 +13,8 @@
         "google/apiclient": "^2.2",
         "guzzlehttp/guzzle": "7.4.0"
     },
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "autoload": {
         "psr-4": {
             "RapidWeb\\GoogleOAuth2Handler\\": "./src/"
